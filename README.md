@@ -9,3 +9,8 @@ function can be defined using:
 =()=>{
 }
 
+Some common iseful functions are:
+Filter()
+Map()
+Reduce()
+These ae mostly used functions in our programming life 
