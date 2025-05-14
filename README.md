@@ -4,7 +4,7 @@ javaScript Functions is executed when it is invoked(calls it)
 High order function:When another function pass as an argument to another function
 function can be defined using:
 1.Function functionName(){
-}
+}<br>
 2.By using Arrow function
 =()=>{
 }
